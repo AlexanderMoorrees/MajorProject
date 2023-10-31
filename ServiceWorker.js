@@ -1,16 +1,9 @@
 const cacheName = "DefaultCompany-Major Project-0.1.0";
 const contentToCache = [
-<<<<<<< Updated upstream
-    "Build/MP28_9.loader.js",
-    "Build/MP28_9.framework.js",
-    "Build/MP28_9.data",
-    "Build/MP28_9.wasm",
-=======
-    "Build/MP28_10.loader.js",
-    "Build/MP28_10.framework.js",
-    "Build/MP28_10.data",
-    "Build/MP28_10.wasm",
->>>>>>> Stashed changes
+    "Build/MP31_10 V5.loader.js",
+    "Build/MP31_10 V5.framework.js",
+    "Build/MP31_10 V5.data",
+    "Build/MP31_10 V5.wasm",
     "TemplateData/style.css"
 
 ];
