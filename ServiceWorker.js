@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Major Project-0.1.0";
 const contentToCache = [
-    "Build/MP28_9.loader.js",
-    "Build/MP28_9.framework.js",
-    "Build/MP28_9.data",
-    "Build/MP28_9.wasm",
+    "Build/MP9_11V1.loader.js",
+    "Build/MP9_11V1.framework.js",
+    "Build/MP9_11V1.data",
+    "Build/MP9_11V1.wasm",
     "TemplateData/style.css"
 
 ];
